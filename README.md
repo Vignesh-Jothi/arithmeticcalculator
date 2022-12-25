@@ -5,8 +5,12 @@
 
 ## Features
 
+- Live Preview
 - Fullscreen mode
 - Cross platform
+
+## Preview
+<a href="https://vignesh-jothi.github.io/arithmeticcalculator/">The Arithmetic Calculator</a>
 
 ## Feedback
 
