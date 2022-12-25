@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box;
+	font-family: 'Chivo Mono', monospace;
+}
+.heading{
+	font-size: 2rem ;
+	text-align: center;
+	text-decoration: underline rgba(15, 188, 249,1.0);
+	font-weight: bold;
+}
+table{
+	margin-left: auto;  
+	margin-right: auto;
+	border-collapse: collapse;  
+	text-align: center;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+td{
+	background-color:rgba(15, 188, 249,1.0);
+	font-weight: bold;
+}
+.btn{
+	padding: 10px 5px;
+	margin: 5px;
+	width: 60px;
+	font-size: 1rem;
+	background-color: rgba(255, 221, 89,1.0);
+	border-radius: 10px;
+}
+.btn:hover{
+	background-color: rgba(2, 6, 10, 0.20);
+}
+.op{
+	background-color:rgba(255, 168, 1,1.0);
+}
+.equal{
+	background-color:rgba(46, 204, 113,1.0);
+}
+#display{
+	padding: 10px 10px;
+	margin: 10px;
+	background-color:rgba(127, 140, 141,.75) ;
+	border-radius: 10px;
+}
+.clr{
+	padding-right:10px;
+	margin-right: 10px;
+	background-color: rgba(231, 76, 60,1.0);
+}
+
