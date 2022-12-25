@@ -10,4 +10,4 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to us at <a href="https://www.jvignesh609@gmail.com">Gmail</a>
+If you have any feedback, please reach out to me at <a href="https://www.jvignesh609@gmail.com">Gmail</a>
