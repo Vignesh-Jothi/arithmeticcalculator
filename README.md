@@ -9,8 +9,8 @@
 - Fullscreen mode
 - Cross platform
 
-## Preview
-<a href="https://vignesh-jothi.github.io/arithmeticcalculator/">The Arithmetic Calculator</a>
+## Visual
+![calculator](https://user-images.githubusercontent.com/87015660/210176651-b2f7f4c0-da64-4aca-b464-d45792e4c39d.png)
 
 ## Feedback
 
